@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=myMenu()
+comment0.text=\ \n\ The\ constructer\ of\ the\ class\n\ Set\ up\ all\ the\ graphic\ interface\ and\ read\ the\ name,picture\ from\ data\ base\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ \n\ The\ main\ method\ of\ the\ class.\n
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment2.text=\ \n\ Go\ to\ the\ corresponding\ page\ when\ user\ clicks\ one\ of\ the\ five\ buttons\n
+comment3.params=e
+comment3.target=void\ mouseExited(java.awt.event.MouseEvent)
+comment4.params=e
+comment4.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment5.params=e
+comment5.target=void\ mouseReleased(java.awt.event.MouseEvent)
+comment6.params=e
+comment6.target=void\ mousePressed(java.awt.event.MouseEvent)
+numComments=7
